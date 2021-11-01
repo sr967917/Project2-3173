@@ -61,6 +61,9 @@ h1 {
     .image-left {
         margin-top: 80px;
     }
+    .opener {
+        padding: 0 30px 0 30px;
+    }
 }
 
 @media (min-width: 768px) {
